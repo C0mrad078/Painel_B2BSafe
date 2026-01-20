@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/procvb2b.iml" filepath="$PROJECT_DIR$/.idea/procvb2b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SaaSB2BSafe.iml" filepath="$PROJECT_DIR$/.idea/SaaSB2BSafe.iml" />
     </modules>
   </component>
 </project>
