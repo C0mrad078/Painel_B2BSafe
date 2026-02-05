@@ -1,46 +1,52 @@
-# 🛡️ B2BSAFE -- Plataforma Corporativa de Automação e Tratamento de Dados
-
-## 📌 Visão Geral
-
-O **B2BSAFE** é uma suíte corporativa de automação desenvolvida para
-otimizar, padronizar e escalar processos relacionados ao tratamento,
-validação, manipulação e integração de grandes volumes de dados
-empresariais.
-
-A plataforma foi projetada com foco em ambientes B2B que exigem alto
-nível de organização, segurança, rastreabilidade e produtividade
-operacional, oferecendo uma interface centralizada e intuitiva para
-execução de múltiplas rotinas automatizadas.
+# 🛡️ B2BSAFE -- Enterprise Data Automation & Intelligence Platform
 
 ------------------------------------------------------------------------
 
-## 🎯 Objetivo do Projeto
+## 🚀 Sobre o Projeto
 
-O B2BSAFE tem como principal objetivo reduzir processos manuais,
-minimizar erros operacionais e aumentar a eficiência na gestão de bases
-de dados corporativas, especialmente em operações relacionadas a:
+O **B2BSAFE** é uma plataforma corporativa desenvolvida para
+automatizar, padronizar e escalar o tratamento de grandes volumes de
+dados empresariais.\
+A solução centraliza múltiplas ferramentas operacionais em uma interface
+moderna, permitindo que equipes reduzam processos manuais, aumentem
+produtividade e melhorem a qualidade das bases utilizadas em operações
+comerciais e analíticas.
 
--   Análise e tratamento de bases empresariais
--   Validação e normalização de contatos telefônicos
--   Automação de consultas e relatórios
--   Manipulação e organização de grandes volumes de planilhas
--   Integração com bancos de dados corporativos
+O sistema foi projetado com foco em ambientes B2B que exigem:
 
-------------------------------------------------------------------------
-
-## ⚙️ Principais Funcionalidades
-
-### 🔎 PROCV B2B -- Comparação Inteligente de Dados
-
-Permite comparar colunas entre arquivos Excel ou CSV, identificando
-divergências e registros exclusivos entre bases, com geração automática
-de relatórios e destaque visual dos resultados.
+✔ Alta confiabilidade dos dados\
+✔ Escalabilidade operacional\
+✔ Automação de processos repetitivos\
+✔ Integração com bancos corporativos\
+✔ Interface amigável para usuários não técnicos
 
 ------------------------------------------------------------------------
 
-### 🧹 Limpeza e Tratamento de Dados
+## 🎯 Objetivo da Plataforma
 
-Ferramenta avançada para:
+Automatizar rotinas empresariais relacionadas ao:
+
+-   Tratamento e limpeza de bases empresariais
+-   Validação e normalização de contatos
+-   Consolidação de planilhas em larga escala
+-   Automação de processos externos
+-   Integração e manipulação de dados em bancos relacionais
+
+------------------------------------------------------------------------
+
+## 🧩 Principais Módulos do Sistema
+
+### 🔎 PROCV B2B -- Comparador Inteligente de Bases
+
+Permite comparação entre colunas de diferentes arquivos Excel ou CSV,
+identificando divergências e registros exclusivos, com geração
+automática de relatórios e destaque visual.
+
+------------------------------------------------------------------------
+
+### 🧹 Limpeza Avançada de Dados
+
+Executa tratamento completo de bases empresariais:
 
 -   Normalização de CNPJ
 -   Padronização e validação de telefones
@@ -48,134 +54,186 @@ Ferramenta avançada para:
 -   Remoção de duplicidades
 -   Aplicação de blocklists e listas de restrição
 -   Geração de relatórios com motivo de exclusão
--   Análise estatística com gráficos integrados
+-   Geração de gráficos analíticos
 
 ------------------------------------------------------------------------
 
-### 💬 Limpeza e Validação de WhatsApp
+### 💬 Validação de Telefones para WhatsApp
 
-Módulo especializado na qualificação de números para campanhas e
-comunicação empresarial:
+Módulo especializado em qualificação de contatos:
 
--   Padronização para formato internacional
+-   Padronização internacional
 -   Validação de números móveis
--   Aplicação automática de regras de DDD e prefixos
--   Separação de contatos válidos e inválidos
+-   Conversão automática para padrão E.164
+-   Separação entre contatos válidos e inválidos
 
 ------------------------------------------------------------------------
 
 ### 🤖 Robô C6 -- Automação de Processos Externos
 
-Sistema de automação que executa rotinas externas (.BAT), permitindo:
+Executa rotinas automatizadas via arquivos BAT:
 
--   Processamento em lote de múltiplas planilhas
+-   Processamento em lote
 -   Consolidação automática de resultados
--   Aplicação de filtros operacionais
--   Geração de relatórios segmentados
+-   Filtragem e segmentação de dados
+-   Geração de relatórios estruturados
 
 ------------------------------------------------------------------------
 
 ### 🧩 Manipulação de Planilhas
 
-Ferramenta para organização e transformação de bases de dados:
+Ferramenta para organização e transformação de bases:
 
 -   Junção de múltiplos arquivos
 -   Separação automática por volume de registros
--   Padronização estrutural de planilhas
+-   Padronização estrutural de dados
 
 ------------------------------------------------------------------------
 
 ### 🗄️ Integração com Banco de Dados
 
-Módulo completo de integração com bancos relacionais:
+Sistema completo de integração com bancos relacionais:
 
--   Importação automatizada de arquivos
+-   Importação automatizada de planilhas
 -   Mapeamento inteligente de colunas
--   Visualização de registros diretamente na interface
--   Compatibilidade com MySQL e PostgreSQL
+-   Visualização de dados via interface gráfica
+-   Compatibilidade com múltiplos bancos SQL
 
 ------------------------------------------------------------------------
 
-## 🖥️ Interface e Experiência do Usuário
+## 🖥️ Interface do Sistema
 
-O sistema possui interface gráfica moderna baseada em **Tkinter**, com:
+O sistema utiliza interface gráfica corporativa com:
 
--   Layout corporativo responsivo
--   Navegação por módulos
--   Temas claro e escuro
--   Monitoramento em tempo real via logs
+-   Navegação modular
+-   Tema claro e escuro
+-   Monitoramento em tempo real
 -   Indicadores visuais de progresso
--   Dashboards gráficos integrados
+-   Dashboards analíticos integrados
 
 ------------------------------------------------------------------------
 
-## 🧠 Diferenciais Técnicos
+## 🧠 Arquitetura e Diferenciais Técnicos
 
--   Arquitetura modular escalável
--   Alto desempenho no processamento de grandes volumes de dados
--   Normalização e validação inteligente de informações
--   Integração direta com bancos corporativos
--   Automação de fluxos operacionais repetitivos
--   Interface amigável para usuários não técnicos
+✔ Arquitetura modular e escalável\
+✔ Processamento otimizado para grandes bases\
+✔ Validação inteligente de dados\
+✔ Automação de fluxos operacionais\
+✔ Interface voltada para produtividade empresarial\
+✔ Estrutura preparada para expansão SaaS futura
 
 ------------------------------------------------------------------------
 
-## 🏢 Aplicações Corporativas
+## 🏢 Possíveis Aplicações Empresariais
 
-O B2BSAFE pode ser aplicado em diversos segmentos empresariais, como:
-
--   Consultorias financeiras e de crédito
--   Operações de telemarketing e relacionamento com clientes
--   Empresas de análise de dados
+-   Consultorias financeiras e crédito consignado
+-   Empresas de análise e enriquecimento de dados
+-   Operações de telemarketing e CRM
+-   Departamentos comerciais B2B
 -   Setores de compliance e validação cadastral
--   Operações comerciais B2B
 
 ------------------------------------------------------------------------
 
-## 🚀 Benefícios Estratégicos
+## 📊 Benefícios Operacionais
 
--   Redução significativa de tempo operacional
--   Aumento da qualidade e confiabilidade dos dados
+-   Redução de tempo operacional
+-   Aumento da confiabilidade dos dados
 -   Padronização de processos internos
--   Escalabilidade para grandes bases empresariais
--   Melhoria na tomada de decisões baseada em dados confiáveis
+-   Escalabilidade para grandes volumes
+-   Melhor suporte à tomada de decisões
 
 ------------------------------------------------------------------------
 
 ## 🔐 Segurança e Conformidade
 
-O sistema foi estruturado considerando boas práticas de segurança da
-informação, incluindo:
+O projeto foi estruturado considerando boas práticas de governança e
+segurança:
 
--   Tratamento controlado de dados sensíveis
--   Processamento local de informações
--   Rastreabilidade operacional via logs
--   Estrutura compatível com diretrizes de privacidade e governança de
-    dados
+-   Processamento local de dados sensíveis
+-   Rastreabilidade via logs operacionais
+-   Estrutura compatível com políticas de privacidade corporativas
 
 ------------------------------------------------------------------------
 
-## 📦 Tecnologias Utilizadas
+## 🧪 Stack Tecnológica
 
--   Python
--   Tkinter
+### 🧰 Linguagem Principal
+
+-   Python 3
+
+### 📊 Processamento e Manipulação de Dados
+
 -   Pandas
+-   NumPy
+
+### 📁 Manipulação de Arquivos Excel
+
 -   OpenPyXL
--   SQLAlchemy
+
+### 📈 Visualização e Gráficos
+
 -   Matplotlib
+
+### 📞 Validação de Telefones
+
 -   Phonenumbers
 
+### 🗄️ Integração com Banco de Dados
+
+-   SQLAlchemy
+-   PyMySQL
+-   Psycopg2
+
+### 🖥️ Interface Gráfica
+
+-   Tkinter
+-   ttk (Themed Tkinter Widgets)
+
+### ⚙️ Automação de Processos
+
+-   Subprocess
+-   Automação via scripts BAT
+
+### 📦 Outras Bibliotecas Utilizadas
+
+-   JSON
+-   Regex (re)
+-   OS / Sys
+-   Math
+-   Shutil
+-   Typing
+
 ------------------------------------------------------------------------
 
-## 👨‍💻 Status do Projeto
+## 🧱 Estrutura do Projeto
 
-O B2BSAFE encontra-se em desenvolvimento contínuo, com expansão modular
-e aprimoramento constante das funcionalidades para atender demandas
-corporativas crescentes.
+    B2BSAFE
+    │
+    ├── Interface gráfica modular
+    ├── Processamento de dados
+    ├── Automações externas
+    ├── Integração com banco SQL
+    ├── Geração de relatórios e gráficos
+    └── Sistema de logs operacionais
 
 ------------------------------------------------------------------------
 
-## 📄 Licença e Uso
+## 📌 Status do Projeto
 
-Projeto desenvolvido para uso corporativo e automação interna de
-processos empresariais.
+✔ Em desenvolvimento contínuo\
+✔ Estrutura modular consolidada\
+✔ Preparado para expansão corporativa
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido para automação corporativa e melhoria de processos
+empresariais.
+
+------------------------------------------------------------------------
+
+## 📄 Licença
+
+Uso corporativo e educacional. Personalizável conforme necessidade
+organizacional.
